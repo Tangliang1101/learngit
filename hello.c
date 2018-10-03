@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-  printf("hello,every!I am learning Git");
+  printf("Hello,everyone!I am learning Git\r\n");
+  printf("Amazing\r\n");
 }
